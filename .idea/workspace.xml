@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc74fe6f-70fb-4154-9264-2bbeda56e505" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lists/017 - List_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/017 - List_Operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/018 - Range_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/019 - Code_Reuse_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/020 - For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/021 - Boolean_Logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/022 - While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/028 - Passing_Arguments_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/029 - Return_Value_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/030 - Passing_Functions_as_Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/031 - Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/035 - Errors_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/036 - Exception_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/037 - Finally_Block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/038 - File_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/039 - Reading_Data_from_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/040 - Adding_Data_to_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/040 - Appending_to_a_File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyLearns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyLearns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lists/For_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/For_Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/List_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/List_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Range_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Range_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/demo.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,63 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/parse_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/Modules.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="94" selection-start-column="94" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/List_Functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lists/For_Loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="94" selection-start-column="94" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/List_Operations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/new_names.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lists/names.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,14 +53,35 @@
         <option value="$PROJECT_DIR$/Lists/new_names.csv" />
         <option value="$PROJECT_DIR$/Lists/parse_csv.py" />
         <option value="$PROJECT_DIR$/Lists/Modules.py" />
+        <option value="$PROJECT_DIR$/Lists/List_Operations.py" />
+        <option value="$PROJECT_DIR$/Lists/Range_Function.py" />
         <option value="$PROJECT_DIR$/Lists/For_Loop.py" />
+        <option value="$PROJECT_DIR$/Lists/018 - Range_Function.py" />
+        <option value="$PROJECT_DIR$/Lists/020 - For_Loop.py" />
+        <option value="$PROJECT_DIR$/Lists/021 - Boolean_Logic.py" />
+        <option value="$PROJECT_DIR$/Lists/017 - List_Function.py" />
+        <option value="$PROJECT_DIR$/Lists/017 - List_Operation.py" />
+        <option value="$PROJECT_DIR$/Lists/022 - While_Loop.py" />
+        <option value="$PROJECT_DIR$/Lists/029 - Return_Value_Function.py" />
+        <option value="$PROJECT_DIR$/Lists/028 - Passing_Arguments_Functions.py" />
+        <option value="$PROJECT_DIR$/Lists/030 - Passing_Functions_as_Arguments.py" />
+        <option value="$PROJECT_DIR$/Lists/019 - Code_Reuse_Functions.py" />
+        <option value="$PROJECT_DIR$/Lists/031 - Modules.py" />
+        <option value="$PROJECT_DIR$/Lists/035 - Errors_Exceptions.py" />
+        <option value="$PROJECT_DIR$/Lists/037 - Finally_Block.py" />
+        <option value="$PROJECT_DIR$/Lists/036 - Exception_Handling.py" />
+        <option value="$PROJECT_DIR$/Lists/038 - File_Handling.py" />
+        <option value="$PROJECT_DIR$/Lists/039 - Reading_Data_from_File.py" />
+        <option value="$PROJECT_DIR$/Lists/040 - Adding_Data_to_File.py" />
+        <option value="$PROJECT_DIR$/Lists/040 - Appending_to_a_File.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="width" value="1572" />
-    <option name="height" value="1047" />
+    <option name="x" value="644" />
+    <option name="y" value="71" />
+    <option name="width" value="1236" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,12 +93,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="MyLearns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLearns2" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MyLearns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLearns2" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
               <item name="Lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -123,8 +110,8 @@
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Application Data" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,8 +125,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.parse_csv">
-    <configuration name="Code_Reuse_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.040 - Appending_to_a_File">
+    <configuration name="035 - Errors_Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLearns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/Code_Reuse_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/035 - Errors_Exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="For_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="036 - Exception_Handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLearns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/For_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/036 - Exception_Handling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="037 - Finally_Block" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLearns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/List_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/037 - Finally_Block.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parse_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="038 - File_Handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyLearns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +201,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/parse_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/038 - File_Handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="040 - Appending_to_a_File" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLearns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/040 - Appending_to_a_File.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,10 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.parse_csv" />
-        <item itemvalue="Python.For_Loop" />
-        <item itemvalue="Python.List_Functions" />
-        <item itemvalue="Python.Code_Reuse_Functions" />
+        <item itemvalue="Python.040 - Appending_to_a_File" />
+        <item itemvalue="Python.038 - File_Handling" />
+        <item itemvalue="Python.037 - Finally_Block" />
+        <item itemvalue="Python.035 - Errors_Exceptions" />
+        <item itemvalue="Python.036 - Exception_Handling" />
       </list>
     </recent_temporary>
   </component>
@@ -254,15 +263,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="0" width="1572" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="644" y="71" width="1236" height="952" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1297262" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16611019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,6 +283,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16611019" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293979" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -321,52 +348,213 @@
     <entry file="file://$PROJECT_DIR$/pdf_query.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lists/Code_Reuse_Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lists/For_Loop" />
-    <entry file="file://$PROJECT_DIR$/Lists/names.csv">
+    <entry file="file://$PROJECT_DIR$/Lists/new_names.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lists/new_names.csv">
+    <entry file="file://$PROJECT_DIR$/Lists/names.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lists/parse_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lists/List_Operations.py">
+    <entry file="file://$PROJECT_DIR$/Lists/020 - For_Loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lists/Modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="94" selection-start-column="94" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lists/List_Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lists/For_Loop.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Range_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/021 - Boolean_Logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Boolean_Logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/List_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="46" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/List_Operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/022 - While_Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="94" selection-start-column="94" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/While_Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Code_Reuse_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" lean-forward="true" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/030 - Passing_Functions_as_Arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/028 - Passing_Arguments_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/029 - Return_Value_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/019 - Code_Reuse_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/017 - List_Operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/017 - List_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/018 - Range_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/031 - Modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/035 - Errors_Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/Errors_Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/036 - Exception_Handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/037 - Finally_Block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/File_Handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/040 - Appending_to_a_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/040 - Adding_Data_to_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/039 - Reading_Data_from_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lists/038 - File_Handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>

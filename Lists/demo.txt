@@ -1,1 +1,1 @@
-I want to learn pythonI want to learn pythonI want to learn pythonI want to learn pythonI want to learn python
+This is the text written to the fileThis is a new line
